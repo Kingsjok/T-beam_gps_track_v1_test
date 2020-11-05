@@ -2,7 +2,7 @@
 ## Software dependencies
 [TinyGPS++](http://arduiniana.org/libraries/tinygpsplus/)
 
-[LMIC-Arduino](https://github.com/matthijskooijman/arduino-lmic)
+[LMIC-Arduino v3.2.0](https://github.com/matthijskooijman/arduino-lmic)
 
 ## Payload decoder
 
