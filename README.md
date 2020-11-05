@@ -4,6 +4,14 @@
 
 [LMIC-Arduino v3.2.0](https://github.com/matthijskooijman/arduino-lmic)
 
+## Instruction
+
+change the "lmic_project_config,h" in directory "Arduino\libraries\MCCI_LoRaWAN_LMIC_library\project_config" into EU868.
+
+Arduino using board "T-Beam".
+
+
+
 ## Payload decoder
 
 ```C
